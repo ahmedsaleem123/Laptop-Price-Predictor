@@ -1,9 +1,8 @@
 # Capstone Pair Project
 
-
-
 **Project Title:** Laptop Price Predictor using Machine Learning
 ![students_info](https://github.com/user-attachments/assets/acbe6881-bbae-45be-8b39-15a0b4ffcd15)
+
 **Project Objective:** Predicting Laptop Prices
 
 **Overview:** In this project, our goal is to develop a machine learning model that can accurately predict the price of a laptop based on its specifications. We will build a user-friendly website or application that uses this model to provide real-time price estimates based on user-inputted features such as brand, processor, RAM, storage, and more.
